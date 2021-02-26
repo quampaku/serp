@@ -1,7 +1,7 @@
 tornado==6.0.4
 cx-Oracle==7.3.0
 aiofiles==0.4.0
-aiohttp==3.6.2
+aiohttp==3.7.4
 aiotask-context==0.6.1
 argparse==1.4.0
 asyncio==3.4.3
